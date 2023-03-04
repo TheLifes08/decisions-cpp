@@ -1,3 +1,3 @@
-# decisions-cpp
+# solutions-cpp
 
 Хранилище решений различных задач на C++.
